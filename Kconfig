@@ -1,0 +1,9 @@
+menu "Comento Example Driver"
+
+config COMENTO_EXAMPLE
+	tristate "Comento Example Driver Module"
+	help
+		This is an example
+
+
+endmenu
